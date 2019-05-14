@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Aliaksandr_Yachnik/Desktop/Platformer2D/Platformer2D/Content/Sounds/PlayerFall.wav</SourceFile>
+  <SourceTime>2019-05-07T19:49:46.2261602+03:00</SourceTime>
+  <DestFile>C:/Users/Aliaksandr_Yachnik/Desktop/Platformer2D/Platformer2D/Content/bin/WindowsGL/Platformer2D/Content/Sounds/PlayerFall.xnb</DestFile>
+  <DestTime>2019-05-14T15:41:28.2622683+03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T19:35:54+03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T19:35:54+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Overlays/you_died.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Overlays/you_lose.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Overlays/you_win.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer0_0.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer0_1.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer0_2.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer0_3.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer1_0.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer1_1.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer1_2.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer1_3.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer2_0.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer2_1.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer2_2.png</File>
+    <File>C:/Users/Aliaksandr_Yachnik/Desktop/MonoGame.Samples/Platformer2D/Content/Backgrounds/Layer2_3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
